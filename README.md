@@ -1,4 +1,4 @@
-# Face Mask Detection Project
+# Face Mask Detection
 
 This project implements face mask detection using YOLOv5 and provides functionalities for detecting masks in both images and videos.
 
